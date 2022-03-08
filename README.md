@@ -13,7 +13,7 @@ npm install dotenv<br/>
 First, need to install Mysql, then enter in the sql shell from the project root and run the following command:
 -source db/schema.sql
 
-Exit the sql shell and run the following command:
+Exit the sql shell and run the following command:<br/>
 -npm run seed<br/>
 -npm start<br/>
 
